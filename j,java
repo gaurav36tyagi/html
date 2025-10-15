@@ -1,0 +1,13 @@
+public class loops 
+{
+    public static void main (string[] args)
+    {
+        int age=34;
+        if(age<13)
+        system.out.println("child");
+        else if(age>13 && age<68)
+        system.out.println("teenager");
+        else
+        system.out.println("senios");
+    }
+}   
